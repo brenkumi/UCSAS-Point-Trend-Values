@@ -1,6 +1,4 @@
-# Point Trend Values
-
-## An Analysis of Cumulative Point Production Among Junior Hockey Forwards
+# Point Trend Values: An Analysis of Cumulative Point Production Among Junior Hockey Forwards
 
 ## 2020 U-Conn Sports Analytics Symposium (UCSAS) Poster
 
